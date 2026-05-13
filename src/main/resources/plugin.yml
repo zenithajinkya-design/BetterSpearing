@@ -1,0 +1,7 @@
+name: BetterSpearing
+version: 1.0
+main: com.devzenith.betterspearing.BetterSpearing
+api-version: 1.21
+authors: [Dev Zenith]
+description: Advanced spear mechanics for Team Dev Zenithians.
+
